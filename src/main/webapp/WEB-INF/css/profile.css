@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  /* margin: 50px; */
+}
+header {
+  display: flex;
+  padding: 30px 0 0px 55px;
+}
+
+li {
+  list-style: none;
+}
+.name {
+  color: blue;
+  margin: 0 0 0 -50px;
+}
+.title {
+  color: grey;
+  margin: 0 0 0 -50px;
+}
+.editprofilebtn {
+  margin: 5px 0 0 30px;
+  background-color: #d2d4d6;
+  border: none;
+  width: 110px;
+  height: 35px;
+  color: #04536c;
+  font-size: 13px;
+  border-radius: 10px 10px 0 0;
+}
+.user-profile {
+  text-align: center;
+}

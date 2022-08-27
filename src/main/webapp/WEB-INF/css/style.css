@@ -1,0 +1,159 @@
+
+/* thankyou  */
+.ty {
+  text-align: center;
+  margin: 70px 0 70px 430px;
+  background-color: #fff;
+  width: 600px;
+  height: 380px;
+  padding: 45px 0 0 20px;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.ty p {
+  line-height: 3px;
+  color: grey;
+  font-weight: normal;
+}
+.email {
+  width: 250px;
+  height: 50px;
+  font-size: 15px;
+  text-align: center;
+  margin: 20px 0 5px 0;
+}
+
+.icon {
+  font-size: 70px;
+  color: green;
+}
+
+/* confirmation email code */
+.code {
+  text-align: center;
+  margin: 70px 0 70px 430px;
+  background-color: #fff;
+  width: 600px;
+  height: 400px;
+  padding: 50px 0 0 20px;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.code p {
+  line-height: 25px;
+  padding: 20px 0 0 0;
+}
+.ecode {
+  width: 280px;
+  height: 108px;
+  font-size: 30px;
+  text-align: center;
+  color: red;
+  margin: 10px 0 5px 0;
+}
+.btn {
+  width: 140px;
+  height: 33px;
+  background-color: #362706;
+  color: white;
+  border-radius: 10px;
+  margin: 20px 0 0 0;
+  font-size: 12px;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: #fff;
+  color: #362706;
+}
+/* login */
+
+/* fp */
+.fpemail {
+  text-align: center;
+  background-color: white;
+  height: 450px;
+  width: 665px;
+  margin: 50px 0 0 410px;
+}
+.fpemail p {
+  color: #797979;
+  padding: 10px 0 0 0;
+}
+.fpemail input {
+  height: 25px;
+  width: 334px;
+  border-color: #797979;
+  text-align: center;
+}
+.fpemail button {
+  width: 250px;
+  height: 33px;
+  background-color: #362706;
+  color: white;
+  font-weight: bold;
+  margin: 10px 0 0 0;
+  border-radius: 10px;
+  font-size: 11px;
+}
+.fpemail button:hover {
+  background-color: white;
+  color: #362706;
+}
+.fpemail a {
+  text-decoration: none;
+  color: grey;
+  font-size: 13px;
+}
+.back {
+  color: #797979;
+  text-align: center;
+}
+.fpemail label {
+  padding-right: 265px;
+  font-size: 14px;
+}
+.pt1 {
+  padding: 220px 0 0 0;
+  margin: 30px 0 0 275px;
+  width: 480px;
+  height: 370px;
+  color: white;
+  background-color: #362706;
+  text-align: center;
+  font-size: 18px;
+}
+.pt2 {
+  padding: 90px 0 0 0;
+  margin: -590px 0 0 755px;
+  text-align: center;
+  background-color: #fff;
+  color: #362706;
+  width: 480px;
+  height: 500px;
+}
+.reset {
+  margin: 500px;
+  width: 330px;
+  height: 35px;
+  background-color: #362706;
+  color: white;
+  border-radius: 10px;
+}
+.reset:hover {
+  background-color: #fff;
+  color: #362706;
+}
+.pt2 form {
+  text-align: left;
+  padding: 40px 0 0 60px;
+  font-weight: bold;
+}
+.pt2 input {
+  margin: 10px 0 0 0;
+  width: 350px;
+  height: 28px;
+  border-radius: 5px;
+  border-color: grey;
+}
+
+

@@ -1,0 +1,49 @@
+/* regform */
+.regform {
+  background-color: #fff;
+  border: none;
+  height: 580px;
+  width: 470px;
+  margin: 60px 0 0 278px;
+  line-height: 30px;
+}
+.regtitle {
+  padding: 80px 0 45px 0;
+  text-align: center;
+  font-size: 28px;
+}
+.form {
+  margin-left: 50px;
+  font-size: 14px;
+  font-weight: 300;
+  padding: 0px 0 0 0;
+}
+.form input {
+  line-height: 20px;
+  width: 370px;
+  border-color: #dddddd;
+}
+.regform button {
+  margin: 25px 50px 0 0;
+  float: right;
+  width: 100px;
+  height: 30px;
+  background-color: #362706;
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+}
+.regform button:hover {
+  background-color: #fffbe9;
+  color: black;
+  font-weight: bold;
+}
+/* img */
+.handshake {
+  width: auto;
+  height: 580px;
+  float: right;
+  padding-right: 285px;
+  margin: -580px 0 0 0;
+}
